@@ -1,4 +1,4 @@
-namespace BuderDinner.Contracts.Authentication;
+namespace BuberDinner.Contracts.Authentication;
 
 public record LoginRequest(
     string Email,
